@@ -1,0 +1,16 @@
+h3{
+    color:blue;
+}
+
+h3.xyz{
+    color: burlywood;
+}
+
+#main{
+    color: rgb(73, 73, 97);
+}
+
+
+#main2{
+    color: crimson;
+}
