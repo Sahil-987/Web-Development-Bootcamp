@@ -15,3 +15,11 @@ branch - portfolio-website-html
 Use float only for this purpose
 - there is an image and text written
 - use float to position the image left/right and wrap the text around it
+
+
+
+
+## Course Progress
+
+Completed - Section 8 - Advanced CSS
+Next - Section 9 - Flexbox
