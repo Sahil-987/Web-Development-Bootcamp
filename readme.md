@@ -5,7 +5,7 @@
 
 https://sahil-987.github.io/Web-Development-Bootcamp/
 
-branch - portfolio-website-html
+github branch - portfolio-website-html
 
 
 
@@ -23,3 +23,12 @@ Use float only for this purpose
 
 Completed - Section 8 - Advanced CSS
 Next - Section 9 - Flexbox
+
+
+
+## Revise
+
+CSS - Flexbox
+
+order : 5;
+flex-wrap : nowrap;
